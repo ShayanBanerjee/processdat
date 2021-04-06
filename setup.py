@@ -33,7 +33,7 @@ setup(
 		],
 	},
 
-	url=,
+	url="https://github.com/ShayanBanerjee/processdat.git",
 	author="Shayan Banerjee",
 	author_email="shayanbanerjee96@gmail.com",
 )
