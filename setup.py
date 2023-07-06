@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
 	name='processdat',
-	version='0.0.1',
+	version='0.0.2',
 	description='Data preprocessing for ML, returns X_train, X_test, y_train, y_test',
 	py_modules=["processdat"],
 	package_dir={'': 'src'},
